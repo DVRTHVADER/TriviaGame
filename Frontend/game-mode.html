@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Choose Game Mode</title>
+    <link rel="stylesheet" href="styles/style.css" />
+  </head>
+  <body>
+    <video autoplay muted loop id="login-bg">
+      <source src="assets/op.mp4" type="video/mp4" />
+    </video>
+    <h2 style="text-align: center; margin-top: 20px">Select a Game Mode</h2>
+
+    <div class="gamemodes-container">
+      <div class="game-mode" id="algoMode">
+        <img src="assets/od.jpg" alt="Algo Stack" />
+
+        <div class="game-mode-description">
+          <h4>Algorithm Stack</h4>
+          Answer algorithm questions fast! Stack your points and beat your
+          streak.
+        </div>
+      </div>
+      <div class="game-mode" id="cyberMode">
+        <img src="assets/oc.jpg" alt="Algo Stack" />
+
+        <div class="game-mode-description">
+          <h4>Cyber Bomb</h4>
+          Avoid the cyber bomb! Quick thinking and speed is key.
+        </div>
+      </div>
+    </div>
+
+    <div
+      style="position: fixed; top: 10px; right: 10px"
+      class="connection-status"
+    >
+      Backend: Checking...
+    </div>
+
+    <script src="js/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,11 @@
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Domain/bin/Debug/net9.0/TriviaGame.Domain.deps.json
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Domain/bin/Debug/net9.0/TriviaGame.Domain.dll
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Domain/bin/Debug/net9.0/TriviaGame.Domain.pdb
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Domain/obj/Debug/net9.0/TriviaGame.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Domain/obj/Debug/net9.0/TriviaGame.Domain.AssemblyInfoInputs.cache
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Domain/obj/Debug/net9.0/TriviaGame.Domain.AssemblyInfo.cs
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Domain/obj/Debug/net9.0/TriviaGame.Domain.csproj.CoreCompileInputs.cache
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Domain/obj/Debug/net9.0/TriviaGame.Domain.dll
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Domain/obj/Debug/net9.0/refint/TriviaGame.Domain.dll
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Domain/obj/Debug/net9.0/TriviaGame.Domain.pdb
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Domain/obj/Debug/net9.0/ref/TriviaGame.Domain.dll

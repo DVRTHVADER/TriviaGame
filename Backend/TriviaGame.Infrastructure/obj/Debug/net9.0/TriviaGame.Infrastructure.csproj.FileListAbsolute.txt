@@ -1,0 +1,15 @@
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Infrastructure/obj/Debug/net9.0/TriviaGame.Infrastructure.csproj.AssemblyReference.cache
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Infrastructure/obj/Debug/net9.0/TriviaGame.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Infrastructure/obj/Debug/net9.0/TriviaGame.Infrastructure.AssemblyInfoInputs.cache
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Infrastructure/obj/Debug/net9.0/TriviaGame.Infrastructure.AssemblyInfo.cs
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Infrastructure/obj/Debug/net9.0/TriviaGame.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Infrastructure/bin/Debug/net9.0/TriviaGame.Infrastructure.deps.json
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Infrastructure/bin/Debug/net9.0/TriviaGame.Infrastructure.dll
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Infrastructure/bin/Debug/net9.0/TriviaGame.Infrastructure.pdb
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Infrastructure/bin/Debug/net9.0/TriviaGame.Domain.dll
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Infrastructure/bin/Debug/net9.0/TriviaGame.Domain.pdb
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Infrastructure/obj/Debug/net9.0/TriviaGa.638CE412.Up2Date
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Infrastructure/obj/Debug/net9.0/TriviaGame.Infrastructure.dll
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Infrastructure/obj/Debug/net9.0/refint/TriviaGame.Infrastructure.dll
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Infrastructure/obj/Debug/net9.0/TriviaGame.Infrastructure.pdb
+/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Infrastructure/obj/Debug/net9.0/ref/TriviaGame.Infrastructure.dll

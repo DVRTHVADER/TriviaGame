@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Trivia Game</title>
+    <link rel="stylesheet" href="styles/style.css" />
+  </head>
+  <body class="dark-theme">
+    <video autoplay muted loop id="login-bg">
+      <source src="assets/op.mp4" type="video/mp4" />
+    </video>
+    <div class="header">
+      <div id="usernameDisplay"></div>
+      <div class="connection-status" id="backendStatus">
+        Backend: Checking...
+      </div>
+    </div>
+
+    <div class="game-container">
+      <div class="question-box" id="questionBox">
+        <h2 id="questionText">Question will appear here</h2>
+        <div id="answers"></div>
+      </div>
+
+      <div class="score-box">
+        <h3>Score: <span id="score">0</span></h3>
+        <h3>Streak: <span id="streak">0</span></h3>
+      </div>
+
+      <div class="chat-box">
+        <h3>Chat</h3>
+        <div id="chatMessages"></div>
+        <input type="text" id="chatInput" placeholder="Type a message" />
+        <button id="sendChat">Send</button>
+      </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "dgSpecHash": "v+sRJ1TbPtE=",
+  "success": true,
+  "projectFilePath": "/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Application/TriviaGame.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/deviiilsaint/.nuget/packages/microsoft.data.sqlite.core/9.0.0-preview.4.24267.1/microsoft.data.sqlite.core.9.0.0-preview.4.24267.1.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/microsoft.entityframeworkcore/9.0.0-preview.4.24267.1/microsoft.entityframeworkcore.9.0.0-preview.4.24267.1.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.0-preview.4.24267.1/microsoft.entityframeworkcore.abstractions.9.0.0-preview.4.24267.1.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.0-preview.4.24267.1/microsoft.entityframeworkcore.analyzers.9.0.0-preview.4.24267.1.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/microsoft.entityframeworkcore.relational/9.0.0-preview.4.24267.1/microsoft.entityframeworkcore.relational.9.0.0-preview.4.24267.1.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/microsoft.entityframeworkcore.sqlite/9.0.0-preview.4.24267.1/microsoft.entityframeworkcore.sqlite.9.0.0-preview.4.24267.1.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/9.0.0-preview.4.24267.1/microsoft.entityframeworkcore.sqlite.core.9.0.0-preview.4.24267.1.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.0-preview.4.24266.19/microsoft.extensions.caching.abstractions.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/microsoft.extensions.caching.memory/9.0.0-preview.4.24266.19/microsoft.extensions.caching.memory.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/microsoft.extensions.configuration/10.0.0/microsoft.extensions.configuration.10.0.0.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.0/microsoft.extensions.configuration.abstractions.10.0.0.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0-preview.4.24266.19/microsoft.extensions.dependencyinjection.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.4.24266.19/microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/microsoft.extensions.dependencymodel/9.0.0-preview.4.24266.19/microsoft.extensions.dependencymodel.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/microsoft.extensions.logging/9.0.0-preview.4.24266.19/microsoft.extensions.logging.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0-preview.4.24266.19/microsoft.extensions.logging.abstractions.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/microsoft.extensions.options/9.0.0-preview.4.24266.19/microsoft.extensions.options.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/microsoft.extensions.primitives/10.0.0/microsoft.extensions.primitives.10.0.0.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.7/sqlitepclraw.bundle_e_sqlite3.2.1.7.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/sqlitepclraw.core/2.1.7/sqlitepclraw.core.2.1.7.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.7/sqlitepclraw.lib.e_sqlite3.2.1.7.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.7/sqlitepclraw.provider.e_sqlite3.2.1.7.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/system.text.encodings.web/9.0.0-preview.4.24266.19/system.text.encodings.web.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "/Users/deviiilsaint/.nuget/packages/system.text.json/9.0.0-preview.4.24266.19/system.text.json.9.0.0-preview.4.24266.19.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "TriviaGame.Infrastructure depends on Microsoft.EntityFrameworkCore (>= 9.0.0-preview.4.24266.19) but Microsoft.EntityFrameworkCore 9.0.0-preview.4.24266.19 was not found. Microsoft.EntityFrameworkCore 9.0.0-preview.4.24267.1 was resolved instead.",
+      "projectPath": "/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Application/TriviaGame.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Application/TriviaGame.Application.csproj",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "TriviaGame.Infrastructure depends on Microsoft.EntityFrameworkCore.Sqlite (>= 9.0.0-preview.4.24266.19) but Microsoft.EntityFrameworkCore.Sqlite 9.0.0-preview.4.24266.19 was not found. Microsoft.EntityFrameworkCore.Sqlite 9.0.0-preview.4.24267.1 was resolved instead.",
+      "projectPath": "/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Application/TriviaGame.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/deviiilsaint/Desktop/TriviaGame/Backend/TriviaGame.Application/TriviaGame.Application.csproj",
+      "libraryId": "Microsoft.EntityFrameworkCore.Sqlite",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
